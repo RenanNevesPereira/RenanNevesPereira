@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @RenanNevesPereira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hello, my name is @RenanNevesPereira
+- 👀 I'm interested in delving deeper into the world of development.
+- 🌱 I'm currently studying software engineering.
+- 💞️ I try to collaborate whenever possible.
+- 📫 How to contact me renan.nevespereira@yahoo.com
+- ⚡ Fun fact: I currently work as a Salesforce Developer
 
-<!---
-RenanNevesPereira/RenanNevesPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
