@@ -21,6 +21,14 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 - 💼 [LinkedIn](https://linkedin.com/in/renan-neves-pereira)
 
 ---
+## 🛠 Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,css,dart,flutter,figma,git,github,graphql,html,java&perline=6" /><br>
+<img src="https://skillicons.dev/icons?i=js,nodejs,postman,vscode&perline=6" />
+<p>
+   
+---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -28,6 +36,8 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
    <img src="https://github-readme-stats.vercel.app/api?username=RenanNevesPereira&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanNevesPereira&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /> 
 <p>
+
+---
 
 ## 📁 Repositories
 
