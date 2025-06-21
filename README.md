@@ -23,26 +23,11 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanNevesPereira&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanNevesPereira&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-  <p align="center">
-      <img src="https://codecov.io/gh/RenanNevesPereira/github-readme-stats/branch/master/graph/badge.svg" />
-      <img alt="Issues" src="https://img.shields.io/github/issues/RenanNevesPereira/github-readme-stats?color=0088ff" />
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/RenanNevesPereira/github-readme-stats?color=0088ff" />
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
-  
----
+   <img src="https://github-readme-stats.vercel.app/api?username=RenanNevesPereira&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanNevesPereira&theme=tokyonight&hide_border=true" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanNevesPereira&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+<p>
 
 ## 📁 Repositories
 
