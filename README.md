@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 
 ## 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=RenanNevesPereira&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanNevesPereira&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /> <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=RenanNevesPereira&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /> <br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanNevesPereira&theme=tokyonight&hide_border=true" /> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanNevesPereira&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 <p>
 
 ## 📁 Repositories
