@@ -48,6 +48,7 @@ Feel free to explore my projects. I enjoy working with:
 - HTML & CSS
 - Angular
 - Node.js
+- Java
 
 ---
 
